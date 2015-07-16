@@ -1,0 +1,28 @@
+{
+  "name": "ubbi_dubbi_translator",
+  "version": "0.1.0",
+  "description": "Translator from English to Ubbi-Dubbi",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickuhn/ubbi_dubbi_translator.git"
+  },
+  "keywords": [
+    "ubbi-dubbi",
+    "english",
+    "translator"
+  ],
+  "author": "Nick Kuhn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickuhn/ubbi_dubbi_translator/issues"
+  },
+  "homepage": "https://github.com/nickuhn/ubbi_dubbi_translator#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0"
+  }
+}
